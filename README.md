@@ -7,3 +7,5 @@ i will make a video
 
 
 status: **still work**
+
+bypass: link4m only
