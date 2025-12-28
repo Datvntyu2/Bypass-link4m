@@ -6,6 +6,6 @@ code make by tsukoyomi open source by ducknovis
 i will make a video
 
 
-status: **still work**
+status: **DOWN**
 
 bypass: link4m only
